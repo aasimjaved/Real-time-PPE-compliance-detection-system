@@ -2,7 +2,7 @@
 
 **Real-time computer-vision safety monitoring that detects missing Personal Protective Equipment (hard hats, safety vests, masks) on live camera feeds, logs violations, and alerts safety officers instantly.**
 
-Built with YOLOv8, FastAPI (WebSockets), and Next.js.
+Built with YOLOv26m, FastAPI (WebSockets), and Next.js.
 
 ---
 
